@@ -1,5 +1,3 @@
-import { IPerson } from "./IPerson";
-
 export class Person {
   private _id: number;
   private _name: string;
